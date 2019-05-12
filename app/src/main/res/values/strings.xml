@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UserAuthentication</string>
+    <string name="hint_email">Email/Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Log Out</string>
+    <string name="send">Send</string>
+    <string name="remove">Remove</string>
+    <string name="hint_question">Type Question Here</string>
+    <string name="hint_answer">Type Answer Here</string>
+</resources>
